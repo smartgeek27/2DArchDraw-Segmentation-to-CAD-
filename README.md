@@ -1,5 +1,6 @@
 # 2DArchDraw-Segmentation-to-CAD
 This tool automates the conversion of 2D architectural and commercial drawings into CAD formats. Using the Segmented Anything Model (SAM), it segments rooms and walls from top-view images, then accurately transforms these segments into CAD-ready formats. 
+example below: 
 ![Idea](output/segmented_img.PNG "Image")
 
 ## Features
@@ -39,7 +40,7 @@ make sure the image is loaded in my case 4.png .
 ## Output
 The script outputs a CAD file (contours_upd.dxf) with the segmented architectural drawing contours. Additionally, it displays the segmented contours overlaid on the original image for visual verification.
 
-
+![Idea](output/cad_format.PNG "Image")
 
 
 
