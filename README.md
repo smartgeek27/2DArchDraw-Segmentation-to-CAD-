@@ -21,3 +21,8 @@ Install the required dependencies using requirements.txt file
 ```sh
 pip install -r requirements.txt
 ```
+
+## Installation
+- Clone this repository to your local machine.
+- Ensure all prerequisites are installed and all the libraries are already installed. 
+- Download the required SAM model checkpoint file (sam_vit_h_4b8939.pth) and place it in the project's root directory. It can be downloaded from here https://github.com/facebookresearch/segment-anything?tab=readme-ov-file 
